@@ -22,7 +22,7 @@ si -> 8. Realizar el pedido
 12. Esperar
 13. Pedido
 14. Pagar
-15.Fin
+15. Fin
 
 **Imagen**
 ![image](http://i66.tinypic.com/nv1tua.jpg "imagen_de_diagrama")
